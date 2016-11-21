@@ -1,6 +1,15 @@
-# Visual Studio 2015 user specific files
-.vs/
+# Unreal Generated Files
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
 
+# Visual Studio 2015 user specific files
+*.vs/
+*.VC.db
+
+lpjuhplyhjpl
 # Compiled Object files
 *.slo
 *.lo
@@ -60,3 +69,5 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+BattleTank/Saved/
